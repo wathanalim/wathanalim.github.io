@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	background-image: ref (images/IMG_2873.jpeg)
+	background-size: cover;	
+	color: black;
+	font-family: Helvetica;
+}
+h1	{
+	font-size: 100px
+}
+p { 
+	font-size: 22px; 
+}
+ul {text-align: center;
+	list-style-type: none;
+	font-style: bold;
+	text-align: left;
+}
+#slogan {color: black;
+	font-size: 40px
+}
+a href {font color: black;
+		font-size: 18px;
+}
