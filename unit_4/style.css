@@ -2,17 +2,19 @@
 h1 {
 	text-align: center;
 	font-family: 'Lora', serif;
-	font-size: 22pt
+	font-size: 22px
 	font-style: bold;
 }
+nav	{ text-align: center;
+	padding: 4px }
 sub {
 	font-family: 'Muli', sans-serif;
-	font-size: 18pt
+	font-size: 18px
 }
 p {
 	font-family: 'Lora', serif;
 	font-family: 'Muli', sans-serif;
-	font-size: 14pt; 
+	font-size: 14px; 
 	margin: 1.5em;
 }
 ul {
@@ -24,5 +26,5 @@ ul {
 a href {
 		text-align: center
 		font color: black;
-		font-size: 16pt;
+		font-size: 16px;
 }
