@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Muli:ital,wght@0,400;0,900;1,700;1,800&display=swap');
-h1 
+h1 {
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-size: 22px
+	font-style: bold;
+}
 h2
 h3
 h4
@@ -10,8 +15,12 @@ h5
 	font-size: 22px
 	font-style: bold;
 }
+
 nav	{ text-align: center;
-	padding: 4px }
+	font-family: 'Muli', sans-serif
+	font-style:bold;
+	padding: 12px 
+}
 sub {
 	text-align: center
 	font-family: 'Muli', sans-serif;
