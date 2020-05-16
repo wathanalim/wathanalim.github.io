@@ -5,7 +5,7 @@ h3
 h4
 h5	
 {
-	font-size: 80em
+	font-size: 10em
 	font-style: bold;
 }
 p { <style>
@@ -13,7 +13,7 @@ p { <style>
 </style>
 	font-family: font-family: 'Lora', serif;
 	font-family: 'Muli', sans-serif;
-	font-size: 14em; 
+	font-size: 10em; 
 	margin: 2em;
 }
 ul {list-style-type: bullet;
@@ -21,8 +21,8 @@ ul {list-style-type: bullet;
 	text-align: left;
 }
 #slogan {color: black;
-	font-size: 30em
+	font-size: 10em
 }
 a href {font color: black;
-		font-size: 18em;
+		font-size: 10em;
 }
