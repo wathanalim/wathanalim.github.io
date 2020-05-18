@@ -33,12 +33,14 @@ p {
 	margin: 1.5em;
 }
 ul {
+	font-family: 'Lora', serif;
 	list-style-type: bullet;
 	font-style: bold;
 	text-align: left;
 }
 
 a href {
+		font-family: 'Lora', serif;
 		text-align: center
 		font color: black;
 		font-size: 16px;
