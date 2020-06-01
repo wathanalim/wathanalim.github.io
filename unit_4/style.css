@@ -2,30 +2,34 @@
 header {
 	text-align: center;
 	font-family: 'Lora', serif;
-	font-size: 22px
+	font-size: 30px;
 	font-style: bold;
 }
-h2
-h3
-h4
-h5
+h1
 {
 	text-align: left;
 	font-family: 'Lora', serif;
-	font-size: 22px
-	font-style: bold;
+	font-size: 24px;
+	font-weight: bold;
+}
+h2{
+	text-align: left;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	font-weight: semi-bold;
 }
 
 nav	{ 
 	text-align: center;
 	font-family: 'Muli', sans-serif
 	font-style:italic;
-	padding: 12px 
+	color: black;
+	padding: 12px; 
 }
 sub {
-	text-align: center
+	text-align: center;
 	font-family: 'Muli', sans-serif;
-	font-size: 18px
+	font-size: 18px;
 }
 p {
 	font-family: 'Lora', serif;
@@ -35,13 +39,15 @@ p {
 ul {
 	font-family: 'Lora', serif;
 	list-style-type: bullet;
-	font-style: bold;
+	font-weight: bold;
 	text-align: left;
 }
 
-a href {
+a {
 		font-family: 'Lora', serif;
 		text-align: center
-		font color: black;
+		color: black;
 		font-size: 16px;
 }
+img	{ 
+	300px }
