@@ -1,3 +1,9 @@
+header {
+	align-content: left;
+	background-color: ##A6ACAF;
+	border: 1px black solid;
+	padding:20px;
+}
 nav	{
 	align-content: center;
 	background-color: #E8C66A;
