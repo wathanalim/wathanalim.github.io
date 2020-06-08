@@ -1,10 +1,10 @@
-header	{
+header {
 	background-color: #FFED74
-	border: 1px black solid;
-	padding:20px;
+	border:1px black solid;
+	padding: 20px;
 }
 nav	{
-	background-color: #E8C66A
+	background-color: #E8C66A;
 	border: 1px black solid;
 	padding:20px;
 }
@@ -13,7 +13,7 @@ footer {
 	border:1px;
 	padding:20px;
 }
-section {
+div {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding:20px;
