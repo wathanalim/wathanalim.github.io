@@ -16,11 +16,11 @@ aside {
 }
 footer {
 	background-color: #D4CFF3;
-	border:1px;
+	border:1px black solid
 	padding:20px;
 }
 section {
 	background-color: #DBD4D2;
-	border:1px;
+	border:1px black solid;
 	padding:20px;
 }
