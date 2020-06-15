@@ -1,35 +1,30 @@
-.clearfix:after {
-	visibility:hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-}
 header {
 	align-content: left;
-	background-color: ##A6ACAF;
+	background-color: #95CEEA;
 	border: 1px black solid;
 	padding:20px;
 }
 nav	{
 	align-content: center;
-	background-color: #E8C66A;
+	background-color: #EA95A4;
 	border: 1px black solid;
 	padding:20px;
 }
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #95A4EA;
 	border: 1px black solid;
 	padding: 20px;
 }
 #left {
-	background-color: #E582A2;
+	clear: both;
+	background-color: #95CEEA;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 30%;
 }
 #right {
+	clear: both;
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
@@ -47,7 +42,8 @@ aside {
 	padding:20px;
 }
 footer {
-	background-color: #D4CFF3;
+	clear: both;
+	background-color: #CDD1D3;
 	border:1px black solid
 	padding:20px;
 }
