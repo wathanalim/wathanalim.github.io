@@ -1,3 +1,10 @@
+.clearfix:after {
+	visibility:hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+}
 header {
 	align-content: left;
 	background-color: ##A6ACAF;
