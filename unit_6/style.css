@@ -11,7 +11,6 @@ header {
 	background-color: #00000;
 	border: 1px black solid;
 	padding:20px;
-	float: none;
 }
 nav	{
 	align-content: center;
@@ -63,42 +62,4 @@ section {
 	background-color: #DBD4D2;
 	border:1px black solid;
 	padding:20px;
-}
-.column {
-  float: left;
-  width: 25%;
-  padding: 10px;
-}
-.column img {
-  opacity: 0.8;
-  cursor: pointer;
-}
-
-.column img:hover {
-  opacity: 1;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.container {
-  position: relative;
-  display: none;
-}
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
 }
