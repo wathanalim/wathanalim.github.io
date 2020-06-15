@@ -39,13 +39,14 @@ nav	{
 	float: right;
 	width: 62%;
 }
-#article {
+article {
 	background-color: #00000;
 	border: 1px black solid;
 	padding:20px;
 	float:left;
 }
-#aside {
+aside {
+	clear:all;
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding:20px;
@@ -57,7 +58,7 @@ footer {
 	padding:20px;
 }
 section {
-	background-color: #DBD4D2;
+	background-color: #00000;
 	border:1px black solid;
 	padding:20px;
 }
