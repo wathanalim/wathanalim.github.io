@@ -1,6 +1,6 @@
 header {
-	align-content: left;
-	background-color: #95CEEA;
+	align-content: center;
+	background-color: #00000;
 	border: 1px black solid;
 	padding:20px;
 }
@@ -16,7 +16,7 @@ nav	{
 	padding: 20px;
 }
 #left {
-	clear: both;
+	clear: all;
 	background-color: #95CEEA;
 	border: 1px black solid;
 	padding: 20px;
@@ -24,7 +24,7 @@ nav	{
 	width: 30%;
 }
 #right {
-	clear: both;
+	clear: all;
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
