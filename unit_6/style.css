@@ -1,7 +1,10 @@
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 header {
 	align-content: center;
