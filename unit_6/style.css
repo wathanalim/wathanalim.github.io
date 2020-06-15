@@ -39,24 +39,22 @@ nav	{
 	float: right;
 	width: 62%;
 }
-article {
-	background-color: #E89C6C;
+#article {
+	background-color: #00000;
 	border: 1px black solid;
 	padding:20px;
 	float:left;
 }
-aside {
+#aside {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding:20px;
 	float:right;
 }
 footer {
-	clear: both;
 	background-color: #CDD1D3;
 	border:1px black solid
 	padding:20px;
-	float:none;
 }
 section {
 	background-color: #DBD4D2;
