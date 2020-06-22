@@ -11,8 +11,9 @@ content: " ";
 clear: both;
 height: 0;
 }
-* {
+{
 	font-family:'Raleway', san-serif;
+}
 }
 header {
 	align-content: center;
@@ -33,5 +34,6 @@ nav	{
 	align-content: left;
 	background-color: #00000;
 	border: 1px black solid;
+	margin:2em 0em;
 	padding:20px;
 }
