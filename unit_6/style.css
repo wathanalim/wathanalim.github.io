@@ -21,7 +21,7 @@ header {
 	align-content: left;
 	background-color: #CDD1D3;
 	border: .5px black solid;
-	padding:10px;
+	padding:5px;
 }
 nav	{
 	font-weight: 400;
@@ -43,9 +43,10 @@ h2 {
 	margin:5em 2em 2em 5em;
 	padding:0.5em;
 }
-section{
+section {
 	align-content: center;
-	background-color: #000000;
+	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding:5px;
+}
 
