@@ -31,14 +31,14 @@ nav	{
 	padding:10px;
 }
 h1 {
-	font-family: Raleway, san-serif;
+	font-family: Raleway,san-serif;
 	font-weight:700;
 	font-size:24px;
 	padding:0.5em;
 	align-content:left;
 }
 h2 {
-	font-family: Raleway, san-serif;
+	font-family: Raleway,san-serif;
 	align-content:left;
 	font-size:20px;
 	font-weight:600;
@@ -52,8 +52,8 @@ img {
 	padding:5em;
 }
 section=id"services" {
-	font-family: Raleway, san-serif;
-	font-size: 16px
-	align-content: left
+	font-family:Raleway,san-serif;
+	font-size:16px;
+	align-content:left;
 }
 
