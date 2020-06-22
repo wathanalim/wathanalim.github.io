@@ -1,10 +1,15 @@
+* {
+	margin:0; 
+	padding:0; 
+	box-sizing:border-box; 
+}
 .clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
+visibility: hidden;
+display: block;
+font-size: 0;
+content: " ";
+clear: both;
+height: 0;
 }
 header {
 	align-content: center;
@@ -12,53 +17,12 @@ header {
 	border: 1px black solid;
 	padding:20px;
 }
+h1{
+	margin-top: 0.5em;
+}
 nav	{
 	align-content: left;
 	background-color: #00000;
 	border: 1px black solid;
-	padding:20px;
-}
-#two_column {
-	background-color: #95A4EA;
-	border: 1px black solid;
-	padding: 20px;
-}
-#left {
-	clear: all;
-	background-color: #95CEEA;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
-}
-#right {
-	clear: all;
-	background-color: #E55B88;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 62%;
-}
-article {
-	background-color: #00000;
-	border: 1px black solid;
-	padding:20px;
-	float:left;
-}
-aside {
-	clear:all;
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding:20px;
-	float:right;
-}
-footer {
-	background-color: #CDD1D3;
-	border:1px black solid
-	padding:20px;
-}
-section {
-	background-color: #00000;
-	border:1px black solid;
 	padding:20px;
 }
