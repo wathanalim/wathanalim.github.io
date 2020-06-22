@@ -12,11 +12,13 @@ content: " ";
 clear: both;
 height: 0;
 }
+body {
+	background-color: white;
+}
 header {
-	font-family: 'Raleway', san-serif;
 	font-weight: 400;
 	font-size: 20px;
-	align-content: center;
+	align-content: left;
 	background-color: #CDD1D3;
 	border: .5px black solid;
 	padding:10px;
@@ -36,7 +38,6 @@ h1 {
 	margin:5em 2em 2em 5em;
 }
 h2 {
-	font-family: 'Raleway', san-serif;
 	font-size: 16px;
 	font-weight: 600;
 	margin:5em 2em 2em 5em;
