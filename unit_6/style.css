@@ -15,23 +15,22 @@ height: 0;
 header {
 	font-family: 'Raleway', san-serif;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 20px;
 	align-content: center;
 	background-color: #CDD1D3;
 	border: .5px black solid;
 	padding:10px;
 }
 nav	{
-	font-weight: regular 400;
+	font-weight: 400;
 	font-size: 16px;
 	align-content: left;
-	background-color: ##DEE0E8;
+	background-color: #DEE0E8;
 	border: 1px black solid;
 	margin:2em 0em;
 	padding:10px;
 }
 h1 {
-	font-family: 'Raleway', san-serif;
 	font-weight: 700;
 	font-size: 18px;
 	margin:5em 2em 2em 5em;
