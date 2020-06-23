@@ -12,8 +12,12 @@ content: " ";
 clear: both;
 height: 0;
 }
+body {
+	background-color: white;
+	font-family: Raleway, sans-serif;
+}
 header {
-	font-family: Raleway, san-serif;
+	font-family: Raleway, sans-serif;
 	font-weight: 400;
 	font-size: 24px;
 	align-content: left;
@@ -21,7 +25,7 @@ header {
 	border: .5px black solid;
 }
 nav	{
-	font-family: Raleway, san-serif;
+	font-family: Raleway, sans-serif;
 	font-weight: 400;
 	font-size: 20px;
 	align-content:left;
@@ -31,14 +35,15 @@ nav	{
 	padding:10px;
 }
 h1 {
-	font-family: Raleway,san-serif;
+	font-family: Raleway,sans-serif;
 	font-weight:700;
 	font-size:24px;
 	padding:0.5em;
 	align-content:left;
+	background-color: #CDD1D3
 }
 h2 {
-	font-family: Raleway,san-serif;
+	font-family: Raleway,sans-serif;
 	align-content:left;
 	font-size:20px;
 	font-weight:600;
@@ -48,11 +53,8 @@ div {
 	background-color:#FFFFFF;
 	border:1px black solid;
 }
-img {
-	padding:1em;
-}
 section=id"services" {
-	font-family:Raleway,san-serif;
+	font-family:Raleway,sans-serif;
 	font-size:16px;
 	align-content:left;
 }
