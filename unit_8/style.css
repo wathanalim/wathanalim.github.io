@@ -33,7 +33,8 @@ nav	{
 	align-content:center;
 	background-color:#DEE0E8;
 	border: 1px black solid;
-	margin:2em 0em 2em 0em;
+	stroke: 1px;
+	margin-top: 2em
 	padding:10px;
 	font-color:black;
 }
