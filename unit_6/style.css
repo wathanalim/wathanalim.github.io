@@ -28,10 +28,10 @@ nav	{
 	font-family: Raleway, sans-serif;
 	font-weight: 400;
 	font-size: 20px;
-	align-content:left;
+	align-content:center;
 	background-color:#DEE0E8;
 	border: 1px black solid;
-	margin:2em 0em;
+	margin:2em 0em 2em 0em;
 	padding:10px;
 }
 h1 {
@@ -53,9 +53,5 @@ div {
 	background-color:#FFFFFF;
 	border:1px black solid;
 }
-section=id"services" {
-	font-family:Raleway,sans-serif;
-	font-size:16px;
-	align-content:left;
-}
+
 
