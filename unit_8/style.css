@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
+* {
+	margin:0; 
+	padding:0; 
+	box-sizing:border-box; 
+}
 .clearfix:after {
 visibility: hidden;
 display: block;
@@ -11,9 +16,8 @@ body {
 	font-family: Raleway, sans-serif;
 }
 header {
-	font-family: Raleway, sans-serif;
 	font-weight: 400;
-	font-size: 2.5em;
+	font-size: 3em;
 	align-content: left;
 	background-color:#CDD1D3;
 	border: .5px black solid;
@@ -22,25 +26,28 @@ header {
 nav	{
 	font-weight: 400;
 	font-size: 2em;
-	align-content: center;
+	align-content:center;
 	background-color:#DEE0E8;
-	margin-top: 1em;
-	padding:10px;
+	border: 1px black solid;
+	margin:2em 0em 2em 0em;
+	font-color:black;
 }
 h1 {
 	font-weight:700;
 	font-size:3em;
 	padding:0.5em;
-	background-color: #CDD1D3;
+	align-content:left;
+	background-color: #CDD1D3
 }
 h2 {
 	align-content:left;
-	font-size:2.5em;
-	font-weight:700;	
+	font-size:2em;
+	font-weight:700;
+	padding:0.5em;
 }
-#about{
-	background-color: #CDD1D3; 
-	width: 80%;
+.work {
+	background:000;
+	border: 1px black solid;
 }
 
 
