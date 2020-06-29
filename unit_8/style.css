@@ -19,7 +19,6 @@ body {
 header {
 	font-weight: 400;
 	font-size: 1em;
-	align-content: left;
 	padding: 1em;
 }
 nav	{
@@ -40,21 +39,24 @@ h2 {
 	font-weight:700;
 }
 img {
-	display: block;
-	margin: 0 auto;
+	display: inline-grid;
+	margin: 1 auto;
+}
+iframe {
+	display:inline-block;
 }
 .about {
 	display:block;
 	margin: 1 auto;
 }
 .services {
-	padding:1em;
+	margin:1em;
 }
 .clientlist {
-	padding:1em;
+	margin: 1em;
 }
 .footer {
 	text-align: center;
-	padding: 1em 0;
+	margin: 1em;
 }
 
