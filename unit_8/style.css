@@ -7,7 +7,6 @@ content: " ";
 clear: both;
 height: 0;
 }
-@media only screen and (min-width: 500px) {
 body {
 	font-family: Raleway, sans-serif;
 }
@@ -19,43 +18,30 @@ header {
 	background-color:#CDD1D3;
 	border: .5px black solid;
 	padding: 0.5em;
-	width: 20%;
 }
 nav	{
-	font-family: Raleway, sans-serif;
-	font-weight: semi-bold;
+	font-weight: 400;
 	font-size: 2em;
 	align-content: center;
 	background-color:#DEE0E8;
-	border: 1px black solid;
-	stroke: 1px;
 	margin-top: 1em;
 	padding:10px;
-	font-color:black;
 }
 h1 {
-	font-family: Raleway,sans-serif;
-	font-weight:bold;
+	font-weight:700;
 	font-size:3em;
 	padding:0.5em;
-	align-content:left;
 	background-color: #CDD1D3;
-	margin:2em;
 }
 h2 {
-	font-family: Raleway,sans-serif;
 	align-content:left;
 	font-size:2.5em;
-	font-weight:600;
-	padding:0.5em;
-	margin: 2em;
+	font-weight:700;	
 }
-section id="about" {
+#about{
 	background-color: #CDD1D3; 
 	width: 80%;
 }
-p {	
-	margin: 2em;
-	}
+
 
 
