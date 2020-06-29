@@ -21,11 +21,10 @@ header {
 	font-size: 1em;
 	align-content: left;
 	padding: 1em;
-	margin-left: 0.5em;
 }
 nav	{
 	font-weight: 400;
-	font-size: 2em;
+	font-size: 1em;
 	background-color:#DEE0E8;
 	text-align: center;
 }
