@@ -59,11 +59,11 @@ img {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 6px;
+  padding: 0 4px;
 }
 
 .column {
-	flex:50%;
+	flex:33%;
 }
 
 .fa {
