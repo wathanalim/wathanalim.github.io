@@ -35,24 +35,25 @@ h1 {
 }
 h2 {
 	align-content:left;
-	font-size:1.5em;
+	font-size:1em;
 	font-weight:700;
+	padding: 0.5em;
 }
 img {
 	display: inline-grid;
 	padding:0.5em;
 }
-.about {
+about {
 	display:block;
 	margin: 1 auto;
 }
-.services {
+services {
 	margin:1em;
 }
-.clientlist {
+clientlist {
 	margin: 1em;
 }
-.footer {
+footer {
 	text-align: center;
 	margin: 1em;
 }
