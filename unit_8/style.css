@@ -57,6 +57,9 @@ h2 {
   flex-wrap: wrap;
   padding: 0 4px;
 }
+.colum {
+	flex:33%;
+}
 
 .fa {
   padding: 20px;
