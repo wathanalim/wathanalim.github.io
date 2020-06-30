@@ -82,18 +82,10 @@ h2 {
 
 .fa-instagram {
 	background-color: #000;
-	color:white;
+	color: white;
 }
 .about {
 	display:block;
 	margin: 1 auto;
-	background-color: #CDD1D3;
-}
-.services {
-	margin:1em;
-}
-.client list {
-	margin: 1em;
-	background-color: #CDD1D3;
 }
 
