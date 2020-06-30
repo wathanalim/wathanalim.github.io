@@ -26,6 +26,16 @@ nav	{
 	background-color: #CDD1D3;
 	overflow: auto;
 }
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  text-align: center;
+}
+
 p {
 	text-align: left;
 }
@@ -73,11 +83,13 @@ h2 {
 .about {
 	display:block;
 	margin: 1 auto;
+	background-color: #CDD1D3;
 }
 .services {
 	margin:1em;
 }
 .client list {
 	margin: 1em;
+	background-color: #CDD1D3;
 }
 
