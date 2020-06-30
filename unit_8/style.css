@@ -19,6 +19,7 @@ header {
 	font-weight: 400;
 	font-size: 1em;
 	padding: 2em;
+	border-right: 1px solid;
 }
 nav	{
 	font-weight: 400;
@@ -26,8 +27,8 @@ nav	{
 	background-color: #CDD1D3;
 	overflow: auto;
 }
-.navbar a {
-  float: left;
+.navbar-right {
+  float: right!important!;
   padding: 12px;
   color: black;
   text-decoration: none;
