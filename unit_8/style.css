@@ -14,33 +14,27 @@ height: 0;
 }
 body {
 	font-family: Raleway, sans-serif;
+	padding: 1em;
 }
 
-header. top-bar {
-	background-color: #CDD1D3;
-}
 
 header {
 	font-weight: 400;
-	font-size: 1em;
-	padding: 1em;
-	border-right: 1px solid black;
 	background-color: #FFF;
 }
 
-nav	{
-	font-weight: 400;
-	font-size: 1em;
-	background-color: #CDD1D3;
-	overflow: auto;
-}
 .navbar-right {
   float: right!important!;
   padding: 1em;
   color: black;
   font-size: 400;
-  width: 10em;
-  text-align: center;
+}
+nav {
+	display: inline-block;
+	padding: 1em 0em;
+	width: 20%;
+	border: 1px solid;
+	float:left;
 }
 
 p {
@@ -51,13 +45,11 @@ h1 {
 	font-size:1.5em;
 	align-content:left;
 	background-color: #CDD1D3;
-	padding: 0.5em;
 }
 h2 {
 	align-content:left;
 	font-size:1em;
 	font-weight:600;
-	padding: 0.5em;
 }
 
 .fa {
@@ -85,7 +77,7 @@ h2 {
 }
 .about {
 	display:block;
-	margin: 1 auto;
+	margin: .5em auto;
 	background-color: #CDD1D3;
 }
 
@@ -94,8 +86,10 @@ h2 {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-div="wrapper" {
-	background-color: white;
+img {
+	width: 50%;
+	padding:0.5em;
+
 }
 
 
