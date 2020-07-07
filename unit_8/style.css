@@ -21,6 +21,7 @@ body {
 header {
 	font-weight: 400;
 	background-color: #FFF;
+	margin: 0.25em;
 }
 .Contact {
 	text-align:right;
@@ -32,7 +33,7 @@ header {
   	padding: 12px 14px;
   	color: black;
   	font-size: 400;
-  	margin: 1em;
+  	margin: .25em;
 }
 .topbar {
 	float:right;
@@ -51,7 +52,8 @@ h1 {
 	font-size:1.5em;
 	align-content:left;
 	background-color: #CDD1D3;
-	padding: 1em;
+	padding: .5em;
+	margin: 1em;
 }
 h2 {
 	align-content:left;
