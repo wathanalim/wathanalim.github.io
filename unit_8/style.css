@@ -22,7 +22,9 @@ header {
 	font-weight: 400;
 	background-color: #FFF;
 }
-
+.container {
+	height: auto;
+}
 .navbar-right {
   float: right!important!;
   padding: 1em;
@@ -31,11 +33,11 @@ header {
 }
 nav {
 	display: inline-block;
-	padding: 1em 0em;
+	padding: 1em;
 	width: 20%;
 	border: 1px solid;
-	float:left;
-	margin: 2em;
+	float:right;
+	margin: 4em;
 }
 .topbar {
 	float:left;
@@ -82,7 +84,7 @@ h2 {
 }
 .about {
 	display:block;
-	margin: .5em auto;
+	margin: 1em;
 	background-color: #CDD1D3;
 }
 
@@ -92,15 +94,16 @@ h2 {
   padding: 0 4px;
 }
 img {
-	width: 50%;
+	width:100%;
 	padding:0.5em;
+	height: auto;
 
 }
 .services {
-	float:right;
+	margin: 2em;
 }
 .clientlist {	
-	float: left;
+	margin: 1em;
 }
 
 
