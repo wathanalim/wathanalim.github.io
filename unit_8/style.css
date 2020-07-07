@@ -12,6 +12,12 @@ content: " ";
 clear: both;
 height: 0;
 }
+
+@media screen only and (min-width: 500px) {
+body {
+font-size: 12px;
+}
+
 body {
 	font-family: Raleway, sans-serif;
 	padding: 1em;
