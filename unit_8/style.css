@@ -21,13 +21,6 @@ header {
 	font-weight: 400;
 	background-color: #FFF;
 }
-.container {
-	height: 50%;
-}
-.logo {
-	display:inherit;
-	margin: 2em;
-}
 .contact {
 	float:right;
 	display: block;
@@ -100,12 +93,9 @@ img {
 	height: auto;
 }
 
-.services {
-	margin: 2em;
-}
-.clientlist {	
+ul {
 	margin: 1em;
-}
+
 
 
 
