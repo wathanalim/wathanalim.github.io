@@ -1,5 +1,5 @@
-@import url('https:/@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
-* {
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
+*	{
 	margin:0; 
 	padding:0; 
 	box-sizing:border-box;
@@ -12,7 +12,6 @@ content: " ";
 clear: both;
 height: 0;
 }
-
 body {
 	font-family: Raleway, sans-serif;
 	padding: 1em;
@@ -21,15 +20,20 @@ body {
 
 header {
 	font-weight: 400;
-	padding: 0.5em;
+	background-color: #FFF;
 }
 .Contact {
 	align-content:right;
+	display: block;
+	border: 1px black;
 }
 .navbar {
+	float: left;
 	text-align: center;
-  	font-style: black;
+  	padding: 12px 14px;
+  	color: black;
   	font-size: 400;
+  	margin: 2em;
 }
 .topbar {
 	float:right;
@@ -40,7 +44,7 @@ header {
 	font-size: 400;
 }
 .containter {
-	padding: 1em;
+	height: 50%;
 
 }
 h1 {
@@ -48,7 +52,6 @@ h1 {
 	font-size:1.5em;
 	align-content:left;
 	background-color: #CDD1D3;
-	padding: 1em;
 }
 h2 {
 	align-content:left;
@@ -81,9 +84,6 @@ h2 {
 }
 
 img {
-	width: auto;
+	width:auto;
 	padding:0.5em;
 }
-
-
-
