@@ -23,9 +23,8 @@ header {
 	background-color: #FFF;
 }
 .Contact {
-	align-content:right;
+	text-align:right;
 	display: block;
-	border: 1px black;
 }
 .navbar {
 	float: left;
