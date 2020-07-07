@@ -35,8 +35,13 @@ nav {
 	width: 20%;
 	border: 1px solid;
 	float:left;
+	margin: 2em;
 }
+.topbar {
+	float:left;
+	padding: 1em 0em;
 
+}
 p {
 	text-align: left;
 }
@@ -91,5 +96,12 @@ img {
 	padding:0.5em;
 
 }
+.services {
+	float:right;
+}
+.clientlist {	
+	float: left;
+}
+
 
 
