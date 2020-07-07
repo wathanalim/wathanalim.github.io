@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
+@import url('https:/@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
 *	{
 	margin:0; 
 	padding:0; 
@@ -14,9 +14,7 @@ height: 0;
 }
 
 @media screen only and (min-width: 600px) {
-body {
 font-size: 12px;
-}
 
 body {
 	font-family: Raleway, sans-serif;
@@ -26,7 +24,7 @@ body {
 
 header {
 	font-weight: 400;
-	padding: 0.25em;
+	padding: 0.5em;
 }
 .Contact {
 	align-content:right;
@@ -35,7 +33,6 @@ header {
 	text-align: center;
   	font-style: black;
   	font-size: 400;
-  	margin: 1em;
 }
 .topbar {
 	float:right;
@@ -46,7 +43,7 @@ header {
 	font-size: 400;
 }
 .containter {
-	margin: 1em;
+	padding: 1em;
 
 }
 h1 {
