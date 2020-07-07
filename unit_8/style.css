@@ -23,21 +23,13 @@ header {
 	background-color: #FFF;
 }
 .container {
-	height: auto;
+	height: 50%;
 }
-.navbar-right {
-  float: right!important!;
+navbar-right {
   padding: 1em;
   color: black;
   font-size: 400;
-}
-nav {
-	display: inline-block;
-	padding: 1em;
-	width: 20%;
-	border: 1px solid;
-	float:right;
-	margin: 4em;
+  margin: 2em;
 }
 .topbar {
 	float:left;
