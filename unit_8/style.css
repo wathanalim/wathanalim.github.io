@@ -26,15 +26,16 @@ body {
 
 header {
 	font-weight: 400;
-	padding: 0.5em;
+	padding: 0.25em;
 }
 .Contact {
-	align-content:right;
+	text-align:right;
 }
 .navbar {
 	text-align: center;
   	font-style: black;
   	font-size: 400;
+  	margin: 1em;
 }
 .topbar {
 	float:right;
@@ -45,7 +46,7 @@ header {
 	font-size: 400;
 }
 .containter {
-	padding: 1em;
+	margin: 1em;
 
 }
 h1 {
