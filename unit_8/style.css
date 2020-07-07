@@ -26,8 +26,13 @@ header {
 }
 .logo {
 	display:inherit;
+	margin: 2em;
 }
-
+.contact {
+	float:right;
+	display: block;
+	border: 1px black;
+}
 .navbar {
   padding: 1em;
   color: black;
