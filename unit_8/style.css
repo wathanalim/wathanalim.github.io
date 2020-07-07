@@ -17,7 +17,6 @@ body {
 	padding: 1em;
 }
 
-
 header {
 	font-weight: 400;
 	background-color: #FFF;
@@ -25,7 +24,7 @@ header {
 .container {
 	height: 50%;
 }
-navbar-right {
+.navbar {
   padding: 1em;
   color: black;
   font-size: 400;
@@ -33,11 +32,11 @@ navbar-right {
 }
 .topbar {
 	float:left;
-	padding: 1em 0em;
-
-}
-p {
-	text-align: left;
+	display:block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 400;
 }
 h1 {
 	font-weight:600;
@@ -89,8 +88,8 @@ img {
 	width:100%;
 	padding:0.5em;
 	height: auto;
-
 }
+
 .services {
 	margin: 2em;
 }
