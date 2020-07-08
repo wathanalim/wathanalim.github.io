@@ -27,10 +27,10 @@ header {
 .Contact {
 	float: right;
 	display: block;
+	color:black;
 }
 .navbar {
 	float:left;
-	text-align: center;
   	padding: 2em;
   	margin: 1em;
 }
@@ -52,7 +52,6 @@ header {
 }
 .containter {
 	float:left;
-
 }
 h1 {
 	font-weight:700;
