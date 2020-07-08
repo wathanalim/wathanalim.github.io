@@ -13,9 +13,9 @@ clear: both;
 height: 0;
 }
 
-@media screen only and (min-width: 500px) {
+media (max-width: 767px)
 body {
-font-size: 12px;
+    font-size: 16px;
 }
 
 body {
