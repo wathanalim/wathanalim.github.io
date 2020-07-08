@@ -51,6 +51,13 @@ header {
 	text-decoration: none;
 	font-size: 400;
 }
+
+.contact {
+	color:black;
+	text-decoration: none;
+	padding:1em;
+}
+
 .containter {
 	float:left;
 	padding: 0.25em;
@@ -103,12 +110,12 @@ img {
 }
 .gallery img {
 	width: 50%;
+	float:none;
+}
+.services {
 	float:left;
 }
-.services{
-	float:left;
-}
-.clientList{
+.clientList {
 	float:right;
 	padding-left: 1em;
 }
