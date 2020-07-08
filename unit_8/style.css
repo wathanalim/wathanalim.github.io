@@ -122,4 +122,7 @@ img {
 ul {
 	padding-left : 1.25em;
 }
-
+div	{
+	display:block;
+	float:left;
+}
