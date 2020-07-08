@@ -53,6 +53,7 @@ header {
 }
 .containter {
 	float:left;
+	padding: 0.25em;
 }
 h1 {
 	font-weight:700;
@@ -62,7 +63,7 @@ h1 {
 	padding: .5em;
 	margin bottom: .5em;
 }
-h2 {
+h2,h3 {
 	align-content:left;
 	font-size:1em;
 	font-weight:600;
