@@ -24,10 +24,11 @@ header {
 	background-color: #FFF;
 	margin: 0.25em;
 }
-.Contact {
+.contact {
 	float: right;
 	display: block;
-	color:black;
+	color: black;
+	text-decoration: none;
 }
 .navbar {
 	float:left;
