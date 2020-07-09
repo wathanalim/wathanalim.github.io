@@ -107,6 +107,7 @@ h2,h3 {
 }
 .work {
 	float:left;
+	margin-bottom: 1em;
 }
 
 img {
@@ -123,11 +124,11 @@ img {
 }
 .services {
 	float:left;
-	padding: 1em;
+	margin-bottom: 1em;
 }
 .clientList {
 	float:left;
-	padding:1em;
+	margin-bottom: 1em;
 }
 ul {
 	float:left;
