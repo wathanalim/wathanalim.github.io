@@ -30,9 +30,9 @@ header {
 	text-decoration: none;
 }
 .navbar {
-	float:left;
-  	padding: 2em;
-  	margin: 1em;
+	float:center;
+  	padding: 1em;
+  	margin: 1.25em;
 }
 .navbar a {
 	text-align: center;
@@ -64,12 +64,13 @@ header {
 h1 {
 	font-weight:700;
 	font-size:1em;
-	align-content:left;
+	float: left;
 	background-color: #CDD1D3;
 	padding: .5em;
 	margin bottom: .5em;
 }
 h2,h3 {
+	float:left;
 	align-content:left;
 	font-size:1em;
 	font-weight:600;
@@ -107,18 +108,25 @@ h2,h3 {
 img {
 	padding:0.5em;
 }
+
+iframe {
+	padding:0.5em;
+}
+
 .gallery img {
 	width: 50%;
 	float:none;
 }
 .services {
 	float:left;
+	padding: 1em;
 }
 .clientList {
-	float:right;
-	padding-left: 1em;
+	float:left;
+	padding:1em;
 }
 ul {
+	float:left;
 	padding-left : 1.25em;
 }
 div	{
