@@ -36,8 +36,7 @@ header {
 }
 .navbar a {
 	text-align: center;
-	padding: 2em;
-	margin:1em;
+	padding: 1em;
 	float:left;
 	color: black;
 	text-decoration: none;
@@ -134,5 +133,6 @@ div	{
 	float:left;
 }
 p {
+	display: block;
 	float:left;
 }
